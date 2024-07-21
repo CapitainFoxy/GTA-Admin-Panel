@@ -2,7 +2,7 @@
 
 ## Overview
 
-GTAServerAdmin is a comprehensive toolset for managing a GTA V server, including backend services for player management, server settings, and bans, as well as a frontend web application for administrative tasks.
+GTAServerAdmin is any C# and Java software, a comprehensive toolset for managing a GTA V server, including backend services for player management, server settings, and bans, as well as a frontend web application for administrative tasks.
 
 ## Setup
 
